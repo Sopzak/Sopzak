@@ -22,7 +22,7 @@
 
 ### About Me 🚀
 💻 I’m a **Full-stack developer** with a bachelor's degree in system analysis. </br> </br>
-🎮 I'm also a **Game Developer** in my spire time. 😅 </br></br>
+🎮 I'm also a **Game Developer** in my spare time. 😅 </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
 📌 Click here to check my 
 <a href="https://sopzak.github.io/Portfolio/">
